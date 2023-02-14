@@ -1,7 +1,8 @@
-## Olá, eu me chamo João Pereira, estudante de análise e desenvolvimento de sistemas!💻
+## Olá, eu me chamo João Pereira, estudante de Análise e desenvolvimento de sistemas na [ Fatec Botucatu ](https://www.fatecbt.edu.br/fatec/)!💻
 
-</> Atualmente estudando JavaScript! | Next lvl - HTML E CSS | Python usado na universidade! 🖥️🎓
+</> Studying for Back-End | Atualmente estudando Java! | Next level - JavaScript, HTML E CSS | Python utilizado na universidade! 🖥️🎓
 <div style="display: inline_block"><br>
+  <img align="center" alt="Balto-Js" height="30" width="40" src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
