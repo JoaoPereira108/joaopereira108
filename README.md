@@ -1,4 +1,4 @@
-## Olá, eu me chamo João Pereira, estudante de Análise e desenvolvimento de sistemas na [ Fatec Botucatu ](https://www.fatecbt.edu.br/fatec/)!💻
+## Olá, eu me chamo João Pereira, sou estudante de Análise e Desenvolvimento de Sistemas na [ Fatec Botucatu ](https://www.fatecbt.edu.br/fatec/)!💻
 
 </> Studying for Back-End | Atualmente estudando Java! | Next level - JavaScript, HTML E CSS | Python utilizado na universidade! 🖥️🎓
 <div style="display: inline_block"><br>
